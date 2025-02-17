@@ -1,1 +1,2 @@
 This is the initial content of workflow.txt
+Adding more content to workflow.txt
